@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning, Web-Dev & Data Science 
 - 🌱 I’m currently learning C++ ,Python & Pandas
 - 💞️ I’m looking to collaborate on Python 
-- 📫 How to reach me [pantpratik01@gmail.com]
+- 📫 How to reach me [pantpratik01@gmail.com].
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
